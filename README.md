@@ -10,8 +10,11 @@ A standalone Windows DVB-T receiver project designed to turn supported SDR hardw
 Current Supported Hardware:
 
 RSP1/MSI.SDR
+
 RSP1A (In Testing)
+
 Pluto SDR (Nano SDR)
+
 
 Interact with the community and download our Beta at https://discord.gg/EaSwhFjsSJ
 
