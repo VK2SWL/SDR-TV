@@ -10,3 +10,5 @@ RSP1A (In Testing)
 Pluto SDR (Nano SDR)
 
 Interact with the community and download our Beta at https://discord.gg/EaSwhFjsSJ
+
+Project created by Cameron VK2SWL/VK3SWL.
