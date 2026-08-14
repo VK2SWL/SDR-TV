@@ -3,6 +3,9 @@
 
 A standalone Windows DVB-T receiver project designed to turn supported SDR hardware into a live digital TV tuner with a modern browser-based interface.
 
+<img width="1541" height="1187" alt="Screenshot 2026-08-14 131032" src="https://github.com/user-attachments/assets/b2de59e2-0983-4dab-8d30-76a1908cccb4" />
+
+
 Current Supported Hardware:
 
 RSP1/MSI.SDR
